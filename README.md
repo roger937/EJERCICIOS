@@ -1,3 +1,3 @@
-# PRIMERA PARTE DATA LEMUR  SQL
+# CONSULTAS  SQL
 En este repositorio encontraras 
 ejemplos de consultas en sql
